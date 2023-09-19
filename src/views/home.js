@@ -12,6 +12,7 @@ import Article from '../components/article'
 import './home.css'
 
 const Home = (props) => {
+  console.log('helllllooooo')
   return (
     <div className="home-container">
       <Helmet>
